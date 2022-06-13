@@ -13,4 +13,4 @@ It contains the following files:
     backgroiund.jpg = Background image used
     
 
-I have also added a screenshot pdf for reference
+I have also added a screenshot pdf for reference.
